@@ -1,8 +1,12 @@
 # 🤖 Customer Support AI Assistant
 
-An intelligent AI-powered Customer Support Chatbot built using Retrieval-Augmented Generation (RAG).
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-red?logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/LLM-Gemini%203.6%20Flash-orange?logo=google&logoColor=white)
+![Gradio](https://img.shields.io/badge/UI-Gradio-FF5500?logo=gradio&logoColor=white)
 
-The chatbot retrieves the most relevant customer support documents from a vector database and generates accurate answers using Google's Gemini Large Language Model.
+An intelligent, context-aware AI Customer Support Assistant built with **Retrieval-Augmented Generation (RAG)** architecture. It accurately answers user queries by fetching relevant support tickets, documentation, and FAQs stored in **ChromaDB** using **BAAI/bge-small-en-v1.5** embeddings, and generates polished, helpful responses via **Google Gemini 3.6 Flash**.
 
 ---
 
