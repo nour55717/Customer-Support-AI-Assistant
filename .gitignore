@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Chroma Database
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
